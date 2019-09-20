@@ -1,3 +1,8 @@
+2019-09-19  Version Classic-0.3
+-------------------------------
+- Corrected issue with Channelled spells.
+
+
 2019-09-13  Version Classic-0.2
 -------------------------------
 - Fixed and rewrote addon for WoW Classic.
