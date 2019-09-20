@@ -8,6 +8,8 @@
 
 LCB_FontSize			= 10;		-- Size of Text Font
 
+
+-- To change the precision of the display, change the .2 to how many decimal places you want.
 CastingBarTimer_DisplayString	= " (%0.2fs)";
 
 -- Function: Add count down timer to the Cast/Channelling Bar Frame.
